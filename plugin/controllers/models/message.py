@@ -45,5 +45,5 @@ def getMessageAnswer():
 
 	return {
 		"result": True,
-		"message": _('Answer is YES!?) if reply else _('Answer is NO!')
+		"message": _('Answer is YES!') if reply else _('Answer is NO!')
 	}
