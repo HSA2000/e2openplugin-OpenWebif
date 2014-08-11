@@ -162,6 +162,9 @@ msgstr ""
 msgid "Timer List"
 msgstr ""
 
+msgid "New Name"
+msgstr ""
+
 msgid "Add Timer"
 msgstr ""
 
@@ -289,6 +292,9 @@ msgid "Edit Timer"
 msgstr ""
 
 msgid "Enable Timer"
+msgstr ""
+
+msgid "Start"
 msgstr ""
 
 msgid "End"
@@ -525,6 +531,12 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
+msgid "Bouquet Editor"
+msgstr ""
+
+msgid "BouquetEditor"
+msgstr ""
+
 msgid "(shift + click for long pressure)"
 msgstr ""
 
@@ -595,6 +607,9 @@ msgid "Timer added"
 msgstr ""
 
 msgid "Timerlist"
+msgstr ""
+
+msgid "Autotimer Preview"
 msgstr ""
 
 msgid "Timer"
@@ -707,6 +722,9 @@ msgid ""
 "and/or modify it under the terms of the GNU General Public License version 2 "
 "as published by the Free Software Foundation."
 msgstr ""
+
+msgid "messageSentResponse"
+msgstr "messageSentResponse_hsa"
 
 msgid "Root"
 msgstr ""
@@ -1014,9 +1032,6 @@ msgid "E"
 msgstr ""
 
 msgid "Message sent successfully!"
-msgstr ""
-
-msgid "Waiting for answer ..."
 msgstr ""
 
 msgid "No answer in time"
